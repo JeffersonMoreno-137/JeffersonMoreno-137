@@ -85,6 +85,7 @@
 | **Brain MRI Classifier** | Computer Vision & Medical Imaging | Transfer Learning, EfficientNet-B0, ResNet50, PyTorch | [View Code](https://github.com/JeffersonMoreno-137/brain-mri-efficientnet-resnet) |
 | **La Victoria Agentic Platform** | Multi-Agent Systems & Legal AI | LangGraph, FastAPI, pgvector, Next.js 14, aiogram 3.x | [View Code](https://github.com/JeffersonMoreno-137/la-victoria-agentic-platform) |
 | **IMDb Sentiment Classifier** | Natural Language Processing | Bidirectional GRU, Pretrained GloVe (100d), PyTorch | [View Code](https://github.com/JeffersonMoreno-137/sentiment-analysis-bigru) |
+| **UN SDG Policy Classifier** | NLP & Public Policy Intelligence | Scikit-Learn Pipeline, TF-IDF + LSA (TruncatedSVD), Balanced Random Forest, Streamlit | [View Code](https://github.com/JeffersonMoreno-137/ods-classifier-nlp) |
 
 
 
