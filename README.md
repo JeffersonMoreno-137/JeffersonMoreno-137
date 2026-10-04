@@ -8,11 +8,13 @@
 - **I’m looking for help with:** Benchmarking distributed multi-agent systems under enterprise load and optimizing asynchronous state management across multi-cloud environments.
 - **Interests:** Long-distance motorcycling (250cc), coastal skimboarding dynamics, and optimizing scalable systems to industrial techno.
 
+---
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-moreno-a7881592) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morenojfabian@gmail.com) 
 
 
+---
 
 ## Technical Stack
 
@@ -89,7 +91,7 @@
 
 
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
