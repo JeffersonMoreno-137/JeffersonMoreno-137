@@ -80,6 +80,7 @@
 
 | Project | Domain / Technical Focus | Key Architecture & Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **La Victoria Agentic Platform** | Multi-Agent Systems & Legal AI | LangGraph, FastAPI, aiogram 3.x, Next.js 14, PostgreSQL, pgvector | [View Code](https://github.com/JeffersonMoreno-137/la-victoria-agentic-platform) |
 | **IMDb Sentiment Classifier** | Natural Language Processing | Bidirectional GRU, Pretrained GloVe (100d), PyTorch | [View Code](https://github.com/JeffersonMoreno-137/sentiment-analysis-bigru) |
 
 
