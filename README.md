@@ -80,6 +80,7 @@
 
 | Project | Domain / Technical Focus | Key Architecture & Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **Environmental Sound Classifier** | Audio Processing & Spectrogram Transformers | Audio Spectrogram Transformer (AST), ESC-50, PyTorch, Hugging Face | [View Code](https://github.com/JeffersonMoreno-137/esc50-ast-nature-sound-classifier) |
 | **BBC News Classifier** | Natural Language Processing | Fine-Tuned BERT (`bert-base-uncased`), Hugging Face, PyTorch | [View Code](https://github.com/JeffersonMoreno-137/bbc-news-transformer-classifier) |
 | **Brain MRI Classifier** | Computer Vision & Medical Imaging | Transfer Learning, EfficientNet-B0, ResNet50, PyTorch | [View Code](https://github.com/JeffersonMoreno-137/brain-mri-efficientnet-resnet) |
 | **La Victoria Agentic Platform** | Multi-Agent Systems & Legal AI | LangGraph, FastAPI, pgvector, Next.js 14, aiogram 3.x | [View Code](https://github.com/JeffersonMoreno-137/la-victoria-agentic-platform) |
