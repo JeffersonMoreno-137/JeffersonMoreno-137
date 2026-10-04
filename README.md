@@ -8,28 +8,11 @@
 - **I’m looking for help with:** Benchmarking distributed multi-agent systems under enterprise load and optimizing asynchronous state management across multi-cloud environments.
 - **Interests:** Long-distance motorcycling (250cc), coastal skimboarding dynamics, and optimizing scalable systems to industrial techno.
 
-
+---
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-moreno-a7881592) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morenojfabian@gmail.com) 
 
-
-
-
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
-
-[![](https://komarev.com/ghpvc/?username=JeffersonMoreno-137&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ### Technical Stack
 
 #### Artificial Intelligence & Data Science
@@ -90,4 +73,18 @@
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
+
+
+---
+### Featured Projects
+
+| Project | Domain / Technical Focus | Key Architecture & Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **IMDb Sentiment Classifier** | Natural Language Processing | Bidirectional GRU, Pretrained GloVe (100d), PyTorch | [View Code](https://github.com/JeffersonMoreno-137/sentiment-analysis-bigru) |
+
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
