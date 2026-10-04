@@ -80,11 +80,12 @@
 
 | Project | Domain / Technical Focus | Key Architecture & Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **NiX: Multi-Agent Personal OS** | Multi-Agent Systems, Personal Finance & GraphRAG | LangGraph, FastAPI, PostgreSQL (`pgvector`), Next.js 15 (PWA), Obsidian, APScheduler | [View Code](https://github.com/JeffersonMoreno-137/multi-agent-personal-os) |
+| **La Victoria Agentic Platform** | Multi-Agent Systems & Legal AI | LangGraph, FastAPI, PostgreSQL (`pgvector`), Next.js 14, aiogram 3.x | [View Code](https://github.com/JeffersonMoreno-137/la-victoria-agentic-platform) |
 | **Environmental Sound Classifier** | Audio Processing & Spectrogram Transformers | Audio Spectrogram Transformer (AST), ESC-50, PyTorch, Hugging Face | [View Code](https://github.com/JeffersonMoreno-137/esc50-ast-nature-sound-classifier) |
-| **BBC News Classifier** | Natural Language Processing | Fine-Tuned BERT (`bert-base-uncased`), Hugging Face, PyTorch | [View Code](https://github.com/JeffersonMoreno-137/bbc-news-transformer-classifier) |
+| **BBC News Classifier** | Natural Language Processing & Transformers | Fine-Tuned BERT (`bert-base-uncased`), Hugging Face, PyTorch | [View Code](https://github.com/JeffersonMoreno-137/bbc-news-transformer-classifier) |
 | **Brain MRI Classifier** | Computer Vision & Medical Imaging | Transfer Learning, EfficientNet-B0, ResNet50, PyTorch | [View Code](https://github.com/JeffersonMoreno-137/brain-mri-efficientnet-resnet) |
-| **La Victoria Agentic Platform** | Multi-Agent Systems & Legal AI | LangGraph, FastAPI, pgvector, Next.js 14, aiogram 3.x | [View Code](https://github.com/JeffersonMoreno-137/la-victoria-agentic-platform) |
-| **IMDb Sentiment Classifier** | Natural Language Processing | Bidirectional GRU, Pretrained GloVe (100d), PyTorch | [View Code](https://github.com/JeffersonMoreno-137/sentiment-analysis-bigru) |
+| **IMDb Sentiment Classifier** | Natural Language Processing & Deep Learning | Bidirectional GRU, Pretrained GloVe (100d), PyTorch | [View Code](https://github.com/JeffersonMoreno-137/sentiment-analysis-bigru) |
 | **SDG Policy Classifier** | NLP & Public Policy Intelligence | Scikit-Learn Pipeline, TF-IDF + LSA (TruncatedSVD), Balanced Random Forest, Streamlit | [View Code](https://github.com/JeffersonMoreno-137/ods-classifier-nlp) |
 
 
